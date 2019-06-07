@@ -3,7 +3,7 @@ title: Array的迭代
 date: 2019-06-07 17:51:34
 tags:
 ---
-![](http://ww1.sinaimg.cn/large/e62e9d3cgy1g3sqwqbafmj22zj2a34qy.jpg)
+![](http://ww1.sinaimg.cn/mw690/e62e9d3cgy1g3sqwqbafmj22zj2a34qy.jpg)
 1. every and some 
 
     every()是对数组的每一项运行指定函数，如果该函数对每一项都返回true，则返回true
