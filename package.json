@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": ""
+    "version": "3.8.0"
+  },
+  "scripts": {
+    "start": "npx hexo server"
   },
   "dependencies": {
     "hexo": "^3.8.0",
