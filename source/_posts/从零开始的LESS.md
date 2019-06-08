@@ -3,7 +3,7 @@ title: 从零开始的LESS
 date: 2019-06-07 17:27:24
 tags: css
 ---
-![](http://ww1.sinaimg.cn/large/e62e9d3cgy1g3sqc2p6llj238g2o8x6p.jpg)
+![](http://pssf2j165.bkt.clouddn.com/dBaz0xhCkPY.jpg)
 
 # 前言
 
