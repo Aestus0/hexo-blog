@@ -3,7 +3,7 @@ title: dockerfile 最佳实践
 date: 2019-06-08 23:57:40
 tags: devops docker
 ---
-![](http://pssf2j165.bkt.clouddn.com/hIF_K6PRjko.jpg)
+![dBaz0xhCkPY.jpg](//i.loli.net/2019/06/09/5cfcda69c5b5911274.jpg)
 # DockerFile 最佳实践
 
 ## 概述
