@@ -5,7 +5,7 @@ tags: sql
 ---
 ![7Oji-C0H-YY.jpg](https://i.loli.net/2019/08/10/XqWPAg2JGQ9dVOD.jpg)
 # oracle数据库迁移
-
+ 
 ## 步骤
 
 1.创建表空间
